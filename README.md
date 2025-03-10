@@ -164,7 +164,7 @@ You should not need to upload new code on the joystick. Just supply power via th
 
 Estimated time of completion: 15 min
 
-At this point, you should be able to use your joystick to drive your mobile robot around! Feel free to make modifications and/or practice driving. If you reach this stage, we will be proud of you.
+At this point, you should be able to use your joystick to drive your mobile robot around! Feel free to make modifications and/or practice driving. If you have reached this stage, we are proud of you.
 
 [^1]: Version 1 - 2024: Jinger Chong, Josh Sohn  
 Version 2 - 2025: Roberto Bolli Jr., Kaleb Blake
