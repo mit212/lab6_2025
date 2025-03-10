@@ -21,7 +21,6 @@ Spring 2025[^1]
   - [4.2 Encoder Validation](#42-encoder-validation)
   - [4.3 Driving Forward](#43-driving-forward)
   - [4.4 Driving via Joystick](#44-driving-via-joystick)
-- [5 Competition](#5-competition)
 
 </details>
 
@@ -159,12 +158,6 @@ You should not need to upload new code on the joystick. Just supply power via th
 | :white_check_mark: CHECKOFF 2 :white_check_mark:   |
 |:---------------------------------------------------|
 | Show your mobile robot in action to a TA or LA. |
-
-## 5 Competition
-
-Estimated time of completion: 15 min
-
-At this point, you should be able to use your joystick to drive your mobile robot around! Feel free to make modifications and/or practice driving. We will have a friendly competition during the last 15 minutes of lab.
 
 [^1]: Version 1 - 2024: Jinger Chong, Josh Sohn  
 Version 2 - 2025: Roberto Bolli Jr., Kaleb Blake
