@@ -34,7 +34,7 @@ Clone this repository.
 
 In past labs, we asked you to move files into the `robot/` directory in order to run them. This is because we have set the default environment in PlatformIO to be `robot`. Today, we will teach you how to change environments so that you can separate code for the mobile robot and the controller.
 
-Click the button at the bottom of the screen that says `Default (lab6_2024)`. Then, select `env:joystick`. PlatformIO should reconfigure the project. Once it finishes, you can now click the upload button as usual and it should compile and upload code in the `joystick/` directory!
+Click the button at the bottom of the screen that says `Default (lab6_2025)`. Then, select `env:joystick`. PlatformIO should reconfigure the project. Once it finishes, you can now click the upload button as usual and it should compile and upload code in the `joystick/` directory!
 
 <p align="center">
 <img src="./.images/robot_env1.png" alt="drawing" width="600"/>
