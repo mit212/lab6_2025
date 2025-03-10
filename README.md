@@ -47,7 +47,7 @@ For this lab, we will **not** remind you to switch environments every time we sw
 ## 2 Controller 
 Estimated time of completion: 10 min
 
-First, we need to wire and program a controller. **All wiring and code in this section should be on the controller.**. We have written this lab assuming you will use one joystick as the only input on your controller, but you are welcome to use other sensor/s as well. 
+First, we need to wire and program a controller. **All wiring and code in this section should be on the controller.** We have written this lab assuming you will use one joystick as the only input on your controller, but you are welcome to use other sensor/s as well. 
 
 ### 2.1 Microcontroller Validation
 
