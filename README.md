@@ -132,7 +132,7 @@ Run `test_basic/motor_drive_test.cpp`. You should see each motor drive at two di
 
 <details> <summary> <i> Wheels not spinning? </i> </summary> 
 
-Try changing `Serial.begin();` to `Serial.begin(115200);`. Serial may have trouble initializing without an explicit baud rate.
+Check the motor wiring. Try changing `Serial.begin();` to `Serial.begin(115200);`. Serial may have trouble initializing without an explicit baud rate.
 
 </details>
 
