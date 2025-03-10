@@ -1,7 +1,7 @@
 # Lab 6: Mobile Robot I
 
 2.12/2.120 Intro to Robotics  
-Spring 2024[^1]
+Spring 2025[^1]
 
 <details>
   <summary>Table of Contents</summary>
@@ -175,4 +175,5 @@ Before you leave, please fill out https://tinyurl.com/212-feedback.
 |:---------------------------------------------------|
 | Show the feedback form completion screen to a TA or LA. |
 
-[^1]: Version 1 - 2024: Jinger Chong, Josh Sohn
+[^1]: Version 1 - 2024: Jinger Chong, Josh Sohn  
+Version 2 - 2025: Roberto Bolli Jr., Kaleb Blake
