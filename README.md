@@ -21,7 +21,7 @@ Spring 2025[^1]
   - [4.2 Encoder Validation](#42-encoder-validation)
   - [4.3 Driving Forward](#43-driving-forward)
   - [4.4 Driving via Joystick](#44-driving-via-joystick)
-- [X Extra Credit] # X-extra-credit
+- [X Extra Credit] (#x-extra-credit)
 
 </details>
 
