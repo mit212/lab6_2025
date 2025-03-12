@@ -65,7 +65,7 @@ Run `test_sensors/joystick_test.cpp` and open the Serial Monitor. You should see
 
 Estimated time of completion: 30 min
 
-Now, we need to set up wireless communications between the controller (*sender*) and the mobile robot (*receiver*) so that the mobile robot can move using controller input. This section is inspired by the [tutorial](https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/) in the prelab.
+Now, we need to set up wireless communications between the controller (*sender*) and the mobile robot (*receiver*) so that the mobile robot can move using controller input. Since the other half of your team should be going through the motor validation on the mobile robot, please use a plain ESP32 on a breadboard as the receiver for this section. See this [tutorial](https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/) for more details.
 
 ### 3.1 Microcontroller Validation
 
