@@ -152,7 +152,7 @@ Run `robot/robot_drive.cpp` and `robot/robot_wireless.cpp` and confirm that all 
 
 Modify `robot/robot_drive.cpp` so that the setpoints are depedent on `joystick.x` and `joystick.y` instead of just being `2`. Think carefully about how you want to map joystick readings to the individual velocities of the motors.
 
-**While you have not confirmed that your code works, make sure the wheels of the mobile robot stay elevated off any surface.** Run `robot/robot_drive.cpp` and `robot/robot_wireless.cpp`. Confirm that the wheels spin reasonably with respect to the joystick.
+**While you have not confirmed that your code works, make sure the wheels of the mobile robot stay elevated off any surface.** Now it is time for your group to come together. Run `robot/robot_drive.cpp` and `robot/robot_wireless.cpp`. Confirm that the wheels spin reasonably with respect to the joystick.
 
 You should not need to upload new code on the joystick. Just supply power via the USB-C port of the microcontroller by plugging it into your laptop or a power brick.
 
