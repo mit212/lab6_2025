@@ -126,7 +126,7 @@ With wireless communications set up, we can now focus on using controller inputs
 
 ### 4.1 Motor Validation
 
-**Make sure the wheels of the mobile robot are all elevated off any surface.** If the robot falls off of the table, please try to catch it before it hits the ground. 
+**Make sure the wheels of the mobile robot are all elevated off of any surface.** If the robot falls off of the table, please try to catch it before it hits the ground. 
 
 Run `test_basic/motor_drive_test.cpp`. You should see each motor drive at two different speeds, in two different directions, one-by-one. Confirm that the wheels spin in the following order: front-left, front-right, back-left, and back-right. 
 
