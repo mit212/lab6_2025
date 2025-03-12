@@ -162,7 +162,7 @@ You should not need to upload new code on the joystick. Just supply power via th
 |:---------------------------------------------------|
 | Show your mobile robot in action to a TA or LA. |
 
-## X Competition (eXtra Credit)
+## X Demonstration (eXtra Credit)
 
 Estimated time of completion: 10 min
 
