@@ -164,9 +164,9 @@ You should not need to upload new code on the joystick. Just supply power via th
 
 ## X Competition (eXtra Credit)
 
-Estimated time of completion: 15 min
+Estimated time of completion: 10 min
 
-At this point, you should be able to use your joystick to drive your mobile robot around! Feel free to make modifications and/or practice driving. If you have reached this stage, we are proud of you.
+Only attempt this portion if there are more than 10 minutes until the end of lab (5 mins before the hour). At this point, you should be able to use your joystick to drive your mobile robot around. You will recieve extra credit if you successfully drive your mobile robot around the white u-shaped path on the floor. You may need to tune your controller gains or make other modifications to make sure robot can follow your commands.
 
 [^1]: Version 1 - 2024: Jinger Chong, Josh Sohn  
 Version 2 - 2025: Roberto Bolli Jr., Kaleb Blake
