@@ -71,7 +71,7 @@ Now, we need to set up wireless communications between the controller (*sender*)
 
 On the *receiver*, run `test_basic/blink_test.cpp`. You should see the onboard LED change colors! 
 
-Tip: You can use the large `RST` and `BOOT` buttons on the PCB. 
+Tip: on the mobile robot, you can use the large `RST` and `BOOT` buttons on the PCB. 
 
 ### 3.2 Receiver MAC Address
 
