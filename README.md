@@ -162,7 +162,7 @@ You should not need to upload new code on the joystick. Just supply power via th
 |:---------------------------------------------------|
 | Show your mobile robot in action to a TA or LA. |
 
-Please clean up your station and return everything to an orderly arangement.
+Please clean up your station and return everything to an orderly arrangement.
 
 ## X Demonstration (eXtra Credit)
 
