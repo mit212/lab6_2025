@@ -118,7 +118,7 @@ To validate that your code works, we have provided code to receive and print mes
 |:---------------------------------------------------|
 | Show your Serial Monitor with joystick data printing to a TA or LA. |
 
-Now, follow section 3.2 to change the MAC address to that of the mobile robot microcontroller. You may have to work in parallel with the other half of your group.
+Now, follow [section 3.2](#32-receiver-mac-address) to change the MAC address to that of the mobile robot microcontroller. You may have to work in parallel with the other half of your group.
 
 ## 4 Mobile Robot
 
